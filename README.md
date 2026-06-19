@@ -25,7 +25,7 @@ Designed as a System Design & Cloud Architecture Project.
 
 CloudSuite is a Python-based design and implementation of a scalable, secure, multi-tenant SaaS platform. The project demonstrates core architectural concepts used in real-world platforms like Salesforce and Zoho, including tenant isolation, RBAC, caching, billing, and monitoring — all in a single, well-documented Python file.
 
-**GitHub Repository:** `https://github.com/YOUR_USERNAME/CloudSuite-MultiTenant-SaaS`  
+**GitHub Repository:** `https://github.com/SudarshanDevadiga/CloudSuite-MultiTenant-SaaS`  
 *(Replace with your actual GitHub link after upload)*
 
 ---
@@ -73,7 +73,7 @@ CloudSuite/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CloudSuite-MultiTenant-SaaS.git
+git clone https://github.com/SudarshanDevadiga/CloudSuite-MultiTenant-SaaS
 cd CloudSuite-MultiTenant-SaaS
 ```
 
